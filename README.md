@@ -30,12 +30,24 @@ Create moments. Share smiles. Spread love 💖
 
 ````
 LilSuprise/
-├── index.html   → Open this in your browser
+├── assets/
+│   ├── images/  → Replace all images with your own images (Don't change file names 'img1.jpg, img2.jpg, img3.jpg'
+│   │   ├── img1.jpg
+│   │   ├── img2.jpg
+│   │   └── img3.jpg
+│   │
+│   └── music/  → Replace bgm with your own music/bgm (Don't change file name 'bgm.mp3'
+│       └── bgm.mp3
+│
 ├── CSS/
-│   └── style.css
+│   └── style.css  → ⚠️ Without CSS knowledge don't edit this file
+│
 ├── JS/
-│   ├── app.js
-│   └── config.js → Edit your message here
+│   └── app.js  → ⚠️ Don't Edit this file
+│
+├── index.html  → Open this in your browser
+│
+└── config.js  → Edit your messages from here
 ````
 
 ---
@@ -47,7 +59,7 @@ Open config.js and edit the text:
 ````
 window.AppConfig = {
   texts: {
-    secret: "Your special message here 💕"
+    secret: "Your special message here 💕" → Edit only the text inside the quotation marks – ""
   }
 };
 ````
@@ -70,11 +82,15 @@ No login. No app install. Just a sweet surprise.
 
 LilSuprise is free and open-source.You can use it, share it, or customize it for personal moments and celebrations.
 
-⭐ If it made someone smile, a star would mean a lot!
+⭐ If it made someone smile, give a star to our repo!
 
 ---
 
 ## 💞 Made With Love
 
 LilSuprise is built to help people express feelings in a simple, creative, and beautiful way. Because sometimes… a small surprise means everything 💖
+
+---
+
+## Copyright© Credits
 
