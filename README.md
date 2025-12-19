@@ -54,7 +54,7 @@ LilSuprise/
 
 ## ✍️ How To Change The Message
 
-Open <mono>config.js</mono> and edit the text:
+Open `config.js` and edit the text:
 
 ````
 window.AppConfig = {
@@ -64,7 +64,7 @@ window.AppConfig = {
 };
 ````
 
-Save the file and open <mono>index.html</mono> — that’s it ✨
+Save the file and open `index.html` — that’s it ✨
 
 ---
 
@@ -96,12 +96,15 @@ LilSuprise is built to help people express feelings in a simple, creative, and b
 
 This project was originally created by another author, and all original copyright ownership remains with them.
 
-This repository is published on GitHub <b>only for personal and educational use</b>. The project was collected and adapted for personal use, and is now shared openly so others may learn from it or use it for non-commercial purposes.
+This repository is published on GitHub **only for personal and educational use**. The project was collected and adapted for personal use, and is now shared openly so others may learn from it or use it for non-commercial purposes.
 
-❌ <b>Reselling, monetizing, or earning money</b> from this project in any form is strictly prohibited.
+❌ **Reselling, monetizing, or earning money** from this project in any form is strictly prohibited.
 
-⚠️ If anyone is found using this project for commercial purposes, selling it, or generating revenue from it, <b>legal action may be taken under applicable copyright laws</b>.
+⚠️ If anyone is found using this project for commercial purposes, selling it, or generating revenue from it, **legal action may be taken under applicable copyright laws**.
 
-✅ You are allowed to <b>edit, modify, and customize</b> this project <b>only for personal use</b>.
+✅ You are allowed to **edit, modify, and customize** this project **only for personal use**.
 
 By using this project, you agree to respect these terms and the original creator’s rights.
+
+---
+
