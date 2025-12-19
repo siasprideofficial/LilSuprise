@@ -54,7 +54,7 @@ LilSuprise/
 
 ## ✍️ How To Change The Message
 
-Open config.js and edit the text:
+Open <mono>config.js</mono> and edit the text:
 
 ````
 window.AppConfig = {
@@ -64,7 +64,7 @@ window.AppConfig = {
 };
 ````
 
-Save the file and open index.html — that’s it ✨
+Save the file and open <mono>index.html</mono> — that’s it ✨
 
 ---
 
