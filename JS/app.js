@@ -20403,7 +20403,7 @@ const ov = I.createContext(void 0),
             i = I.useRef(null);
         I.useEffect(
             () => (
-                (i.current = new Audio("/assets/music/bgm.mp3")),
+                (i.current = new Audio("/LilSuprise/assets/music/bgm.mp3")),
                 (i.current.loop = !0),
                 (i.current.volume = 0.4),
                 () => {
@@ -31622,9 +31622,9 @@ fQ.textContent = `
   }
 `;
 document.head.appendChild(fQ);
-const qL = "/assets/images/img1.jpg",
-    Ab = "/assets/images/img2.jpg",
-    eb = "/assets/images/img3.jpg",
+const qL = "/LilSuprise/assets/images/img1.jpg",
+    Ab = "/LilSuprise/assets/images/img2.jpg",
+    eb = "/LilSuprise/assets/images/img3.jpg",
     tb = ({ onNext: e }) => {
         const [A, t] = I.useState(null),
             r = [
