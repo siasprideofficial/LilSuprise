@@ -92,5 +92,16 @@ LilSuprise is built to help people express feelings in a simple, creative, and b
 
 ---
 
-## Copyright© Credits
+## © Copyright & Usage Notice
 
+This project was originally created by another author, and all original copyright ownership remains with them.
+
+This repository is published on GitHub <b>only for personal and educational use</b>. The project was collected and adapted for personal use, and is now shared openly so others may learn from it or use it for non-commercial purposes.
+
+❌ <b>Reselling, monetizing, or earning money</b> from this project in any form is strictly prohibited.
+
+⚠️ If anyone is found using this project for commercial purposes, selling it, or generating revenue from it, <b>legal action may be taken under applicable copyright laws</b>.
+
+✅ You are allowed to <b>edit, modify, and customize</b> this project <b>only for personal use</b>.
+
+By using this project, you agree to respect these terms and the original creator’s rights.
