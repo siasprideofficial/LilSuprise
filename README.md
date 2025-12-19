@@ -16,7 +16,7 @@ Create moments. Share smiles. Spread love 💖
 
 ---
 
-Check Website Previews... [Click here!](/LilSuprise#-website-preview)
+Check Website Previews... [Click here!](https://github.com/siasprideofficial/LilSuprise#%EF%B8%8F-website-preview)
 
 ---
 
