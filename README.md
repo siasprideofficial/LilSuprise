@@ -130,16 +130,16 @@ Thank you for your great work and contribution.
 ## 🖼️ Website Preview
 
 ***Preview 1...***
-![Preview Image 1](/preview1.jpg)
+![Preview Image 1](/Raws/preview_img1.jpg)
 
 ***Preview 2...***
-![Preview Image 2](/preview2.jpg)
+![Preview Image 2](/raws/preview_img2.jpg)
 
 ***Preview 3...***
-![Preview Image 3](/preview3.jpg)
+![Preview Image 3](/preview_img3.jpg)
 
 ***Preview 4...***
-![Preview Image 4](/preview4.jpg)
+![Preview Image 4](/preview_img4.jpg)
 
 ---
 
