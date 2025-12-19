@@ -112,14 +112,12 @@ By using this project, you agree to respect these terms and the original creator
 
 **Hello Developer**,
 
-First of all, sincere **respect to you🫡** for creating such an amazing and inspiring project. Your work truly deserves appreciation ✨
+First of all, **sincere respect🫡** for creating such an amazing project✨
+I genuinely apologize for scraping this project — it was done **only for personal use**, with *no intention of **misuse, resale, or monetization***.
 
-I would like to honestly apologize for scraping this project. It was done only for **personal use**, with no intention of misusing, selling, or claiming ownership of your work.
+If you are uncomfortable with this or want the project removed, please email us and we will **immediately take it down**.
 
-We have shared this project publicly only as an open-source, **non-commercial** project, while clearly giving credit and respect to the original author.
-If at any point you are uncomfortable with this, or if you wish for this project to be taken down, please let us know via email and we will **immediately remove it** without any hesitation.
-
-Once again, sorry for any inconvenience caused, and thank you for your wonderful contribution to the community.
+Thank you for your great work and contribution.
 
 ***With respect 🙏***
 
