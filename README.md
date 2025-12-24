@@ -4,6 +4,13 @@ LilSuprise is a simple and open-source web project made for everyone — not jus
 
 Create moments. Share smiles. Spread love 💖
 
+<br>
+
+![Profile](https://komarev.com/ghpvc/?username=arsnspookie7&label=Visitors&color=000000&style=plastic&logo=profile&logoColor=white)
+[![Star on GitHub](https://img.shields.io/github/stars/arsnspookie7/arsnspookie7?style=social)](https://github.com/login?return_to=%2Farsnspookie7%2Farsnspookie7)
+[![GitHub followers](https://img.shields.io/github/followers/arsnspookie7?style=social)](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Farsnspookie7)
+<br>
+
 ---
 
 ## 💝 What Can You Use It For?
